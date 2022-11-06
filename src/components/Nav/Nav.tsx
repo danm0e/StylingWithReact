@@ -1,7 +1,7 @@
 const Nav = () => (
   <ul>
     <li>
-      <a href="/">Object</a>
+      <a href="/">Inline</a>
     </li>
     <li>
       <a href="/css">Css</a>
